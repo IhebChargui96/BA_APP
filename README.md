@@ -15,7 +15,9 @@ Studiengang:
 Elektrotechnik, Vertiefung Ingenieurinformatik
 
 Betreuung:
+
 Prof. Dr.-Ing. Martin Mutz
+
 Prof. Dr.-Ing. Hanno Homann
 
 
